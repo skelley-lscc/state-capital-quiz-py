@@ -1,0 +1,52 @@
+# https://simple.wikipedia.org/wiki/List_of_U.S._state_capitals
+# https://simple.wikipedia.org/wiki/List_of_U.S._states%27_largest_cities
+Alabama	AL 	1819 	Montgomery	Birmingham
+Alaska	AK 	1959 	Juneau	Anchorage
+Arizona	AZ 	1912 	Phoenix	Tucson
+Arkansas	AR 	1836 	Little Rock	Fayetteville
+California	CA 	1850 	Sacramento	Los Angeles
+Colorado	CO 	1876 	Denver	Colorado Springs
+Connecticut	CT 	1788 	Hartford	Bridgeport
+Delaware	DE 	1787 	Dover	Wilmington
+Florida	FL 	1845 	Tallahassee	Jacksonville
+Georgia	GA 	1788 	Atlanta	Augusta
+Hawaii	HI 	1959 	Honolulu	Hilo
+Idaho	ID 	1890 	Boise	Idaho Falls
+Illinois	IL 	1818 	Springfield	Chicago
+Indiana	IN 	1816 	Indianapolis	Evansville
+Iowa	IA 	1846 	Des Moines	Cedar Rapids
+Kansas	KS 	1861 	Topeka	Wichita
+Kentucky	KY 	1792 	Frankfort	Louisville
+Louisiana	LA 	1812 	Baton Rouge	New Orleans
+Maine	ME 	1820 	Augusta	Portland
+Maryland	MD 	1788 	Annapolis	Baltimore
+Massachusetts	MA 	1788 	Boston	Worcester
+Michigan	MI 	1837 	Lansing	Detroit
+Minnesota	MN 	1858 	Saint Paul	Minneapolis
+Mississippi	MS 	1817 	Jackson	Hattiesburg
+Missouri	MO 	1821 	Jefferson City	Kansas City
+Montana	MT 	1889 	Helena	Billings
+Nebraska	NE 	1867 	Lincoln	Omaha
+Nevada	NV 	1864 	Carson City	Las Vegas
+New Hampshire	NH 	1788 	Concord	Manchester
+New Jersey	NJ 	1787 	Trenton	Newark
+New Mexico	NM 	1912 	Santa Fe	Albuquerque
+New York	NY 	1788 	Albany	New York City
+North Carolina	NC 	1789 	Raleigh	Charlotte
+North Dakota	ND 	1889 	Bismarck	Fargo
+Ohio	OH 	1803 	Columbus	Cleveland
+Oklahoma	OK 	1907 	Oklahoma City	Tulsa
+Oregon	OR 	1859 	Salem	Portland
+Pennsylvania	PA 	1787 	Harrisburg	Philadelphia
+Rhode Island	RI 	1790 	Providence	Warwick
+South Carolina	SC 	1788 	Columbia	Charleston
+South Dakota	SD 	1889 	Pierre	Sioux Falls
+Tennessee	TN 	1796 	Nashville	Memphis
+Texas	TX 	1845 	Austin	Houston
+Utah	UT 	1896 	Salt Lake City	Provo
+Vermont	VT 	1791 	Montpelier	Burlington
+Virginia	VA 	1788 	Richmond	Norfolk
+Washington	WA 	1889 	Olympia	Seattle
+West Virginia	WV 	1863 	Charleston	Huntington
+Wisconsin	WI 	1848 	Madison	Milwaukee
+Wyoming	WY 	1890 	Cheyenne	Casper
